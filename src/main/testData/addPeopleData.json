@@ -1,0 +1,14 @@
+{
+  "person1": {
+    "name": "Rock",
+    "height": "172",
+    "gender": "M"
+  },
+  "person2": {
+     "name": "Rock",
+    "height": "172",
+    "gender": "M",
+    "hair_color": "Grey",
+    "eye_color": "Black"
+  }
+}
